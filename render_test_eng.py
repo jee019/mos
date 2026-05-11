@@ -11,18 +11,18 @@ def main():
     env = Environment(loader=loader)
     template = env.get_template("test_single.html.jinja2")
     
-    # Load ENG MOS questions
-    eng_mos_questions = QuestionGenerator_MOS("filelist/NMOS_eng_10.csv").questions
+    # Load ENG MOS questions (15-sample set)
+    eng_mos_questions = QuestionGenerator_MOS("filelist/NMOS_eng_15.csv").questions
     
-    # Load ENG SMOS questions
-    eng_smos_questions = QuestionGenerator_SMOS("filelist/SMOS_eng_10.csv").questions
+    # Load ENG SMOS questions (15-sample set)
+    eng_smos_questions = QuestionGenerator_SMOS("filelist/SMOS_eng_15.csv").questions
 
     html = template.render(
         page_title="NMOS & SMOS Experiment Form (English)",
         language="ENG",
         language_name="English",
         language_name_kr="영어",
-        form_url="https://script.google.com/macros/s/AKfycbz9n8g2pCje9P3VdorsWhPLAVSk-hiZ17Ip8QzyAHyPCU7Wn2Y2HTApJiFIjOrqbpw6/exec",
+        form_url="https://script.google.com/macros/s/AKfycbz9n8g2pCje9P3VdorsWhPLAVSk-hiZ17Ip8QzyAHyPCU7Wn2Y2HTApJiFIjOrqbpw6/exec?eval_set=eng_15",
         mos_questions=eng_mos_questions,
         smos_questions=eng_smos_questions
     )

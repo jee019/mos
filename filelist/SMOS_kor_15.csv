@@ -1,0 +1,76 @@
+order,filename1,filename2,transcript
+1,wav/eval_data/kor/mimi/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
+2,wav/eval_data/kor/cosy2/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
+3,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02439.wav,wav/eval_data/kor/speakers/KsponSpeech_E02441.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+4,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02735.wav,wav/eval_data/kor/speakers/KsponSpeech_E02737.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+5,wav/eval_data/kor/dualcodec/KsponSpeech_E02723.wav,wav/eval_data/kor/speakers/KsponSpeech_E02729.wav,그래도 이번 워크샵은 좀 재밌게 즐기면서 했던 거 같습니다
+6,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
+7,wav/eval_data/kor/mimi/KsponSpeech_E01921.wav,wav/eval_data/kor/speakers/KsponSpeech_E01927.wav,이 말이나 행동으로 표현할 수 없는 것들도 눈빛으로 다 표현할 수 있다고 생각하기 때문에 좋은 거 같습니다
+8,wav/eval_data/kor/cosy2/KsponSpeech_E01075.wav,wav/eval_data/kor/speakers/KsponSpeech_E01076.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+9,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
+10,wav/eval_data/kor/dualcodec/KsponSpeech_E01592.wav,wav/eval_data/kor/speakers/KsponSpeech_E01594.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+11,wav/eval_data/kor/mimi/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
+12,wav/eval_data/kor/dualcodec/KsponSpeech_E01003.wav,wav/eval_data/kor/speakers/KsponSpeech_E01025.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+13,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01594.wav,wav/eval_data/kor/speakers/KsponSpeech_E01599.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+14,wav/eval_data/kor/cosy2/KsponSpeech_E00352.wav,wav/eval_data/kor/speakers/KsponSpeech_E00356.wav,근데 내가 한참동안 있었거든 근데 이제
+15,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E00185.wav,wav/eval_data/kor/speakers/KsponSpeech_E00190.wav,아 근데 그게 있어 나는 내가 먹은 만큼 어차피 어떻게 보면 조금 뛰는 그런 스타일이라서
+16,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02439.wav,wav/eval_data/kor/speakers/KsponSpeech_E02441.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+17,wav/eval_data/kor/cosy2/KsponSpeech_E00185.wav,wav/eval_data/kor/speakers/KsponSpeech_E00190.wav,아 근데 그게 있어 나는 내가 먹은 만큼 어차피 어떻게 보면 조금 뛰는 그런 스타일이라서
+18,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
+19,wav/eval_data/kor/mimi/KsponSpeech_E01003.wav,wav/eval_data/kor/speakers/KsponSpeech_E01025.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+20,wav/eval_data/kor/dualcodec/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
+21,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
+22,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01075.wav,wav/eval_data/kor/speakers/KsponSpeech_E01076.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+23,wav/eval_data/kor/cosy2/KsponSpeech_E01594.wav,wav/eval_data/kor/speakers/KsponSpeech_E01599.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+24,wav/eval_data/kor/mimi/KsponSpeech_E00352.wav,wav/eval_data/kor/speakers/KsponSpeech_E00356.wav,근데 내가 한참동안 있었거든 근데 이제
+25,wav/eval_data/kor/dualcodec/KsponSpeech_E02735.wav,wav/eval_data/kor/speakers/KsponSpeech_E02737.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+26,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
+27,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01921.wav,wav/eval_data/kor/speakers/KsponSpeech_E01927.wav,이 말이나 행동으로 표현할 수 없는 것들도 눈빛으로 다 표현할 수 있다고 생각하기 때문에 좋은 거 같습니다
+28,wav/eval_data/kor/cosy2/KsponSpeech_E02723.wav,wav/eval_data/kor/speakers/KsponSpeech_E02729.wav,그래도 이번 워크샵은 좀 재밌게 즐기면서 했던 거 같습니다
+29,wav/eval_data/kor/dualcodec/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
+30,wav/eval_data/kor/mimi/KsponSpeech_E01592.wav,wav/eval_data/kor/speakers/KsponSpeech_E01594.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+31,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
+32,wav/eval_data/kor/mimi/KsponSpeech_E01075.wav,wav/eval_data/kor/speakers/KsponSpeech_E01076.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+33,wav/eval_data/kor/dualcodec/KsponSpeech_E02439.wav,wav/eval_data/kor/speakers/KsponSpeech_E02441.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+34,wav/eval_data/kor/cosy2/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
+35,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01003.wav,wav/eval_data/kor/speakers/KsponSpeech_E01025.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+36,wav/eval_data/kor/mimi/KsponSpeech_E00185.wav,wav/eval_data/kor/speakers/KsponSpeech_E00190.wav,아 근데 그게 있어 나는 내가 먹은 만큼 어차피 어떻게 보면 조금 뛰는 그런 스타일이라서
+37,wav/eval_data/kor/dualcodec/KsponSpeech_E01921.wav,wav/eval_data/kor/speakers/KsponSpeech_E01927.wav,이 말이나 행동으로 표현할 수 없는 것들도 눈빛으로 다 표현할 수 있다고 생각하기 때문에 좋은 거 같습니다
+38,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02723.wav,wav/eval_data/kor/speakers/KsponSpeech_E02729.wav,그래도 이번 워크샵은 좀 재밌게 즐기면서 했던 거 같습니다
+39,wav/eval_data/kor/cosy2/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
+40,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00352.wav,wav/eval_data/kor/speakers/KsponSpeech_E00356.wav,근데 내가 한참동안 있었거든 근데 이제
+41,wav/eval_data/kor/dualcodec/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
+42,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
+43,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01592.wav,wav/eval_data/kor/speakers/KsponSpeech_E01594.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+44,wav/eval_data/kor/mimi/KsponSpeech_E02735.wav,wav/eval_data/kor/speakers/KsponSpeech_E02737.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+45,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01594.wav,wav/eval_data/kor/speakers/KsponSpeech_E01599.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+46,wav/eval_data/kor/cosy2/KsponSpeech_E01003.wav,wav/eval_data/kor/speakers/KsponSpeech_E01025.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+47,wav/eval_data/kor/mimi/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
+48,wav/eval_data/kor/lmspt-dc/KsponSpeech_E01592.wav,wav/eval_data/kor/speakers/KsponSpeech_E01594.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+49,wav/eval_data/kor/cosy2/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
+50,wav/eval_data/kor/dualcodec/KsponSpeech_E00185.wav,wav/eval_data/kor/speakers/KsponSpeech_E00190.wav,아 근데 그게 있어 나는 내가 먹은 만큼 어차피 어떻게 보면 조금 뛰는 그런 스타일이라서
+51,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E00352.wav,wav/eval_data/kor/speakers/KsponSpeech_E00356.wav,근데 내가 한참동안 있었거든 근데 이제
+52,wav/eval_data/kor/cosy2/KsponSpeech_E02439.wav,wav/eval_data/kor/speakers/KsponSpeech_E02441.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+53,wav/eval_data/kor/mimi/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
+54,wav/eval_data/kor/dualcodec/KsponSpeech_E01594.wav,wav/eval_data/kor/speakers/KsponSpeech_E01599.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+55,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
+56,wav/eval_data/kor/dualcodec/KsponSpeech_E01075.wav,wav/eval_data/kor/speakers/KsponSpeech_E01076.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+57,wav/eval_data/kor/cosy2/KsponSpeech_E01921.wav,wav/eval_data/kor/speakers/KsponSpeech_E01927.wav,이 말이나 행동으로 표현할 수 없는 것들도 눈빛으로 다 표현할 수 있다고 생각하기 때문에 좋은 거 같습니다
+58,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02723.wav,wav/eval_data/kor/speakers/KsponSpeech_E02729.wav,그래도 이번 워크샵은 좀 재밌게 즐기면서 했던 거 같습니다
+59,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02735.wav,wav/eval_data/kor/speakers/KsponSpeech_E02737.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
+60,wav/eval_data/kor/mimi/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
+61,wav/eval_data/kor/dualcodec/KsponSpeech_E00352.wav,wav/eval_data/kor/speakers/KsponSpeech_E00356.wav,근데 내가 한참동안 있었거든 근데 이제
+62,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
+63,wav/eval_data/kor/mimi/KsponSpeech_E01594.wav,wav/eval_data/kor/speakers/KsponSpeech_E01599.wav,뭐냐 그 내 gap 가방 있잖아 갭 가방 있어 근데 거기 그 그게 없어진 거야 그래서 어
+64,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01921.wav,wav/eval_data/kor/speakers/KsponSpeech_E01927.wav,이 말이나 행동으로 표현할 수 없는 것들도 눈빛으로 다 표현할 수 있다고 생각하기 때문에 좋은 거 같습니다
+65,wav/eval_data/kor/cosy2/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
+66,wav/eval_data/kor/dualcodec/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
+67,wav/eval_data/kor/mimi/KsponSpeech_E02439.wav,wav/eval_data/kor/speakers/KsponSpeech_E02441.wav,키가 되게 작아도 못 탄다고 했잖아 근데 그 애가 키가 되게 작은 거야 근데 엄마랑 같이 왔어 근데
+68,wav/eval_data/kor/cosy2/KsponSpeech_E01592.wav,wav/eval_data/kor/speakers/KsponSpeech_E01594.wav,아 그래도 그 정도면 되게 좋지 않나 커버도 깔끔하고
+69,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
+70,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01003.wav,wav/eval_data/kor/speakers/KsponSpeech_E01025.wav,그 나 같은 경우에는 봄에 가고 싶은데 뭐 그 친구가 같이 가자는 친구가 아직 날짜나 이런 거는 정하지 않았고
+71,wav/eval_data/kor/dualcodec/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
+72,wav/eval_data/kor/mimi/KsponSpeech_E02723.wav,wav/eval_data/kor/speakers/KsponSpeech_E02729.wav,그래도 이번 워크샵은 좀 재밌게 즐기면서 했던 거 같습니다
+73,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00185.wav,wav/eval_data/kor/speakers/KsponSpeech_E00190.wav,아 근데 그게 있어 나는 내가 먹은 만큼 어차피 어떻게 보면 조금 뛰는 그런 스타일이라서
+74,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E01075.wav,wav/eval_data/kor/speakers/KsponSpeech_E01076.wav,또 이제 내가 오월드를 하고 나서 뚜레주르라는 또 알바를 했었어 내가 근데
+75,wav/eval_data/kor/cosy2/KsponSpeech_E02735.wav,wav/eval_data/kor/speakers/KsponSpeech_E02737.wav,뭐 하이패스 비 이런 거 내고 뭐 밥 값 거기 가서 밥 먹을라고 했는데 사실 바 밥 먹을라 했는데 너무 맛이 없어 가지고 우리가 사서 먹었거든 삼겹살 같은 거
