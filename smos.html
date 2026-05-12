@@ -295,7 +295,8 @@
                 }
                 
                 // Create the full URL
-                const fullUrl = formUrl + '?' + params.toString();
+                const separator = formUrl.includes('?') ? '&' : '?';
+                const fullUrl = formUrl + separator + params.toString();
                 
                 // Submit by redirecting (this is the most reliable way for Google Apps Script)
                 // The Google Apps Script will return an HTML page with thank you message
