@@ -309,7 +309,7 @@ def create_smos_csv(selected_indices, models, output_file, base_dir, selected_tr
 def main():
     # Configuration for ENG
     base_dir = Path("wav/eval_data/eng")
-    models = ['mimi', 'lmspt-dc', 'lmspt-mimi', 'dualcodec', 'cosy2']  # lmspt-mimi 추가
+    models = ['mimi', 'lmspt-dc', 'dualcodec', 'cosy2']
     n_samples = 15
     seed = 42
     

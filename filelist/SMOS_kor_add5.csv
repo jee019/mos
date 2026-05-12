@@ -1,26 +1,21 @@
 order,filename1,filename2,transcript
-1,wav/eval_data/kor/cosy2/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
-2,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
-3,wav/eval_data/kor/dualcodec/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
-4,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
-5,wav/eval_data/kor/mimi/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
-6,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
-7,wav/eval_data/kor/mimi/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
-8,wav/eval_data/kor/cosy2/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
-9,wav/eval_data/kor/dualcodec/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
-10,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
-11,wav/eval_data/kor/cosy2/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
-12,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
-13,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
-14,wav/eval_data/kor/mimi/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
-15,wav/eval_data/kor/cosy2/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
-16,wav/eval_data/kor/dualcodec/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
-17,wav/eval_data/kor/mimi/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
-18,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
-19,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
-20,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
-21,wav/eval_data/kor/dualcodec/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
-22,wav/eval_data/kor/lmspt-mimi/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
-23,wav/eval_data/kor/cosy2/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
-24,wav/eval_data/kor/mimi/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
-25,wav/eval_data/kor/dualcodec/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
+1,wav/eval_data/kor/mimi/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
+2,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
+3,wav/eval_data/kor/cosy2/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
+4,wav/eval_data/kor/dualcodec/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
+5,wav/eval_data/kor/cosy2/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
+6,wav/eval_data/kor/dualcodec/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
+7,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
+8,wav/eval_data/kor/mimi/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
+9,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
+10,wav/eval_data/kor/dualcodec/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
+11,wav/eval_data/kor/cosy2/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
+12,wav/eval_data/kor/mimi/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
+13,wav/eval_data/kor/cosy2/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
+14,wav/eval_data/kor/lmspt-dc/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
+15,wav/eval_data/kor/dualcodec/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
+16,wav/eval_data/kor/mimi/KsponSpeech_E02168.wav,wav/eval_data/kor/speakers/KsponSpeech_E02169.wav,저번에 내가 보라고 했던 그 굿바이 다 봤잖아 다 봤어
+17,wav/eval_data/kor/dualcodec/KsponSpeech_E02818.wav,wav/eval_data/kor/speakers/KsponSpeech_E02826.wav,비밀번호 막 0000 이런 걸로 해놓으면 되는 거야 자기 이름 그냥 이렇게 해놓으면 되지
+18,wav/eval_data/kor/lmspt-dc/KsponSpeech_E02550.wav,wav/eval_data/kor/speakers/KsponSpeech_E02552.wav,너 많이 봐 그거 아니면 그거 있었는데
+19,wav/eval_data/kor/mimi/KsponSpeech_E00017.wav,wav/eval_data/kor/speakers/KsponSpeech_E00018.wav,나도 기분 안 좋긴 한데 근데 그거는 그 식당말이 맞는 거 같애 거의 식당에서 뭐 호텔이나 이런데 뭐 식당 밥 먹다 보면은
+20,wav/eval_data/kor/cosy2/KsponSpeech_E00903.wav,wav/eval_data/kor/speakers/KsponSpeech_E00905.wav,그치 그래서 다시 해야지 어떻게 보면 좀 뺄 만큼 빼야지 이제 가기 전에
