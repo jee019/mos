@@ -135,11 +135,40 @@ Each HTML form redirects submissions to the `form_url` value set in the render
 script. The provided `app*.gs` files are Google Apps Script examples that write
 responses to a Google Spreadsheet.
 
-Before collecting real responses, deploy the Apps Script as a web app and
-replace the `form_url` in the renderer with your deployed web app URL.
+### Google Sheets integration
+
+1. Create a Google Sheet for the evaluation results.
+2. Copy the spreadsheet ID from the sheet URL. In a URL like
+   `https://docs.google.com/spreadsheets/d/SPREADSHEET_ID/edit`, the
+   `SPREADSHEET_ID` part is the ID.
+3. Open the Apps Script editor from the sheet, usually through
+   **Extensions > Apps Script**.
+4. Paste the matching Apps Script code:
+   - Use `app.gs` for the combined ENG + KOR form.
+   - Use `app_eng.gs` for the English-only form.
+   - Use `app_kor.gs` for the Korean-only form.
+5. Replace the spreadsheet ID in `SpreadsheetApp.openById(...)` with your
+   result sheet ID.
+6. Save the Apps Script project.
+7. Deploy it as a web app with **Deploy > New deployment > Web app**.
+   Recommended settings:
+   - **Execute as**: `Me`, so submissions are written with the script owner's
+     permission.
+   - **Who has access**: choose the access level that matches your evaluation
+     setup. Use `Anyone` only if respondents should submit without signing in.
+8. Copy the deployed web app URL. Use the `/exec` deployment URL for real
+   evaluations, not the `/dev` test URL.
+9. Paste that URL into the `form_url` value in the render script.
+10. Regenerate the HTML and submit one test response before sharing the form.
+
+The Apps Script writes responses to the first sheet tab returned by
+`getSheets()[0]`. Add header rows manually if you want labeled columns.
 
 For language-specific forms, also check the spreadsheet ID in the matching
 `app_eng.gs` or `app_kor.gs` file before deployment.
+
+If you update the Apps Script after deploying it, create a new version and edit
+the existing deployment to use that version. This keeps the same web app URL.
 
 ## Notes
 
